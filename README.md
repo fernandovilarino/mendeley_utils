@@ -1,4 +1,4 @@
-# mendeley_utils
+# MENDELEY UTILS
 # Motivation
 This prolect allows creating formated csv and html lists from Mendeley Groups. It usesd the Mendeley SDK for python as the bases for development and for the Mendely Appi access.
 # Build status

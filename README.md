@@ -28,7 +28,7 @@ The code is plain and not optimised. Comments are added in the text if needed.
 Edit the fer_config.yml and add the keys
 > clientId: HERE_THE_ID_KEY
 > clientSecret: HERE_THE_CLIENT_SECRET
-> groupKey: HERE_THE_GROUP_KEY
+> groupId: HERE_THE_GROUP_KEY
 
 TBD
 

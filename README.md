@@ -23,14 +23,22 @@ The code is plain and not optimised. Comments are added in the text if needed.
 * Install the Mendely SDK for python.
 * Download this project and paste into the root of the Mendeley SDK
 
+# How to Use?
+## Configuration
+Edit the fer_config.yml and add the keys
+> clientId: HERE_THE_ID_KEY
+> clientSecret: HERE_THE_CLIENT_SECRET
+> groupKey: HERE_THE_GROUP_KEY
+
+TBD
+
 # API reference
 TBD
 
 # Tests
 TBD
 
-# How to Use?
-TBD
+
 
 # Contribute
 Give me a few weeks to clean the project so that I can open it! :)

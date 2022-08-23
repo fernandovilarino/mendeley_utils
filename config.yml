@@ -1,0 +1,7 @@
+clientId: HERE_THE_CLIENTID
+clientSecret: HERE_THE_CLIENTSECRET
+groupId: HERE_THE_GROUPID
+filename_csv:  output/fer_library_csv.csv
+filename_csv_sorted: output/fer_library_csv_sorted.csv
+filename_html: output/fer_library_html.html
+filename_redirect_html: redirect.html
